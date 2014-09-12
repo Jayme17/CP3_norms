@@ -5,3 +5,4 @@ CP3_norms
 1. No talking when others are talking
 2. NO EATING
 3. Contribute
+4. Raise Hands
