@@ -1,4 +1,5 @@
 CP3_norms
 =========
 
-Norms for CP3 1st Period at ChiTech
+#Norms for CP3 1st Period at ChiTech 
+1. No talking when others are talking
