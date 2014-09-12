@@ -6,3 +6,4 @@ CP3_norms
 2. NO EATING
 3. Contribute
 4. Raise Hands
+5. Respect Each Other
